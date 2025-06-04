@@ -1,0 +1,69 @@
+Projekt Bibliothek
+
+Was soll das Programm leisten?
+
+    1. Es soll unterschiedliche Medien aus 
+       einer Quelle auslesen. 
+       (Bücher, Zeitschriften, CDs, DVDs)
+            Schrittweise Steigerung:
+            - zunächst aus einem Vector
+            - danach aus CSV Datei
+            - zuletzt aus Datenbank
+
+    2. Veränderungen in 1 sollen in die 
+       Quelle zurückgeschrieben werden.
+            - Verfügbarkeit
+            - letzter Nutzer
+            - Neu- Erwerb
+
+    3. Es soll ein Kundenregister geben, 
+       in dem aufgeführt werden:
+            - Kunden ID
+            - Vollständiger Name mit Anrede
+            - Adresse
+            - Verleihstatus
+
+    4. Veränderungen in 3 sollen in die 
+       Quelle zurückgeschrieben werden.
+            - Alle Attribute
+            - Neukunde
+
+
+Erste Überlegungen:
+
+    - Objektorientierter Ansatz:
+        - Klassen/ Strukuren:
+            - Bibliothek
+                - Attribute:
+                    - Medienkatalog
+                    - Kundenregister
+                - Methoden:
+                    - Menu/ Dialog
+                    - Bearbeiten Medienkatalog
+                    - Suchen im Medienkatalog
+                    - Bearbeiten Kundenregister
+                    - Suchen im Kundenregister
+
+            - Medium
+                - mögliche Vererbungslinie
+                    -> Medium (abstrakt)
+                    -> Buch, Zeitschrift, CD, DVD
+                       (Erbend von Medium)
+                - Atribute:
+                    - Medien ID (ISBN, EAN)
+                    - Autor/ Artist
+                    - Titel
+                    - Erscheinungsdatum (bei Zeitschriften Jahrgang)
+                    - Leihstatus
+                    - Rückgabedatum
+                - Überlegung: 
+                    - Binärarray (z.B.: 10001)
+                        - 1. Bit = Verfügbarkeit
+                        - anderen Bits = Mediumsart
+            - Kunde
+                - Attribute:
+                    - Name, Anrede
+                    - Adresse
+                    - Kunden ID
+                    - Flag Verleihstatus
+                    - Liste geliehener Medien 

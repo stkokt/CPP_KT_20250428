@@ -1,0 +1,63 @@
+Hier ist eine simulierte Liste von Medien für Ihre Bibliothek, basierend auf den gewünschten Kategorien und Attributen. Die Daten sind fiktiv und dienen nur zu Demonstrationszwecken.
+
+### Bücher
+
+| Medien ID | Autor | Titel | Erscheinungsdatum | Leihstatus | Rückgabedatum |
+|-----------|-------|-------|-------------------|------------|---------------|
+| 978-3-16-148410-0 | Stefan Zweig | Die Welt von Gestern | 1942 | verfügbar | - |
+| 978-3-423-12345-6 | Thomas Mann | Der Zauberberg | 1924 | ausgeliehen | 2025-06-15 |
+| 978-3-596-29490-1 | Hermann Hesse | Siddhartha | 1922 | verfügbar | - |
+| 978-3-442-73456-7 | Franz Kafka | Der Prozess | 1925 | ausgeliehen | 2025-06-10 |
+| 978-3-257-23456-8 | Friedrich Nietzsche | Also sprach Zarathustra | 1883 | verfügbar | - |
+| 978-3-15-009999-9 | Bertolt Brecht | Die Dreigroschenoper | 1928 | ausgeliehen | 2025-06-20 |
+| 978-3-458-34567-8 | Theodor Fontane | Effi Briest | 1895 | verfügbar | - |
+| 978-3-463-45678-9 | Johann Wolfgang von Goethe | Faust | 1808 | verfügbar | - |
+| 978-3-426-56789-0 | Friedrich Schiller | Die Räuber | 1781 | ausgeliehen | 2025-06-05 |
+| 978-3-499-67890-1 | E.T.A. Hoffmann | Der Sandmann | 1816 | verfügbar | - |
+
+### Zeitschriften
+
+| Medien ID | Autor | Titel | Jahrgang | Leihstatus | Rückgabedatum |
+|-----------|-------|-------|----------|------------|---------------|
+| 977-1234-56789-0 | Verschiedene | Der Spiegel | 2023 | verfügbar | - |
+| 977-2345-67890-1 | Verschiedene | National Geographic | 2022 | ausgeliehen | 2025-06-12 |
+| 977-3456-78901-2 | Verschiedene | Focus | 2023 | verfügbar | - |
+| 977-4567-89012-3 | Verschiedene | Stern | 2022 | ausgeliehen | 2025-06-18 |
+| 977-5678-90123-4 | Verschiedene | Geo | 2023 | verfügbar | - |
+| 977-6789-01234-5 | Verschiedene | Zeit Wissen | 2022 | verfügbar | - |
+| 977-7890-12345-6 | Verschiedene | Spektrum der Wissenschaft | 2023 | ausgeliehen | 2025-06-22 |
+| 977-8901-23456-7 | Verschiedene | PM | 2022 | verfügbar | - |
+| 977-9012-34567-8 | Verschiedene | Mare | 2023 | verfügbar | - |
+| 977-0123-45678-9 | Verschiedene | Brigitte | 2022 | ausgeliehen | 2025-06-25 |
+
+### CDs
+
+| Medien ID | Artist | Titel | Erscheinungsdatum | Leihstatus | Rückgabedatum |
+|-----------|--------|-------|-------------------|------------|---------------|
+| 5012345678901 | Beethoven | Symphonien | 2020 | verfügbar | - |
+| 5023456789012 | Mozart | Klavierkonzerte | 2019 | ausgeliehen | 2025-06-14 |
+| 5034567890123 | Bach | Brandenburgische Konzerte | 2021 | verfügbar | - |
+| 5045678901234 | Brahms | Ungarische Tänze | 2020 | ausgeliehen | 2025-06-16 |
+| 5056789012345 | Schubert | Winterreise | 2022 | verfügbar | - |
+| 5067890123456 | Chopin | Nocturnes | 2019 | verfügbar | - |
+| 5078901234567 | Tchaikovsky | Schwanensee | 2021 | ausgeliehen | 2025-06-19 |
+| 5089012345678 | Vivaldi | Die vier Jahreszeiten | 2020 | verfügbar | - |
+| 5090123456789 | Handel | Messiah | 2022 | verfügbar | - |
+| 5001234567890 | Haydn | Die Schöpfung | 2019 | ausgeliehen | 2025-06-21 |
+
+### DVDs
+
+| Medien ID | Artist | Titel | Erscheinungsdatum | Leihstatus | Rückgabedatum |
+|-----------|--------|-------|-------------------|------------|---------------|
+| 4001234567890 | Christopher Nolan | Inception | 2010 | verfügbar | - |
+| 4002345678901 | Quentin Tarantino | Pulp Fiction | 1994 | ausgeliehen | 2025-06-13 |
+| 4003456789012 | Stanley Kubrick | 2001: Odyssee im Weltraum | 1968 | verfügbar | - |
+| 4004567890123 | Martin Scorsese | The Departed | 2006 | ausgeliehen | 2025-06-17 |
+| 4005678901234 | Francis Ford Coppola | Der Pate | 1972 | verfügbar | - |
+| 4006789012345 | Steven Spielberg | Schindlers Liste | 1993 | verfügbar | - |
+| 4007890123456 | Ridley Scott | Blade Runner | 1982 | ausgeliehen | 2025-06-23 |
+| 4008901234567 | Alfred Hitchcock | Psycho | 1960 | verfügbar | - |
+| 4009012345678 | James Cameron | Titanic | 1997 | verfügbar | - |
+| 4010123456789 | Peter Jackson | Der Herr der Ringe: Die Rückkehr des Königs | 2003 | ausgeliehen | 2025-06-24 |
+
+Ich hoffe, diese Liste erfüllt Ihre Anforderungen für die Simulation einer Bibliothek. Wenn Sie weitere Anpassungen oder zusätzliche Informationen benötigen, lassen Sie es mich wissen!

@@ -104,7 +104,30 @@ bool luhnAlgorithm(const std::string& cardNumber) {
     return (sum % 10 == 0);
 }
 
+// Variante Patrick
+
+bool proofCreditCard(vector<int> numbers) {
+    countCalls();
+    bool proof = false;
+    int proofSum = 0;
+    if (numbers.size() == 16) {
+        for (int i = 0; i < 16; ++i) {
+            //  Verdopple jede zweite Ziffer von rechts:
+            if(i % 2 == 0) numbers[i] = numbers[i] * 2;
+            //  Subtrahiere 9 von den Zahlen größer als 9:
+            if(numbers[i] > 9) numbers[i] = numbers[i] - 9;
+            // Bilde die Summe:
+            proofSum += numbers[i];
+        }
+        // Prüfe ob die Summe durch 10 teilbar ist:
+        if (proofSum % 10 == 0) proof = true;
+    }
+    
+    return proof;
+}
+
 // Aufgabe 9
+// 1000-A12-0001-1
 string ID(){
     countCalls();
     static int firstBlock = 9995;
