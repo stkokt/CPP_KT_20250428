@@ -1,0 +1,11 @@
+name; sex; address; cID; loan; loanMedia
+Max Mustermann; Herr; Musterstraße 1, 10115 Berlin; MM25Q20001; true; 978-3-423-12345-6, 977-2345-67890-1, 5023456789012
+Anna Schmidt; Frau; Hauptstraße 42, 80331 München; AS25Q20002; true; 978-3-596-29490-1, 4002345678901
+Peter Müller; Herr; Bahnhofstraße 7, 20095 Hamburg; PM25Q20003; false;
+Lisa Wagner; Frau; Gartenweg 15, 60325 Frankfurt; LW25Q20004; true; 978-3-442-73456-7, 977-4567-89012-3, 5045678901234
+Thomas Bauer; Herr; Waldstraße 23, 50667 Köln; TB25Q20005; true; 978-3-257-23456-8, 4004567890123
+Sarah Schulz; Frau; Seeufer 8, 81379 München; SS25Q20006; false;
+Michael Becker; Herr; Bergweg 11, 70173 Stuttgart; MB25Q20007; true; 978-3-458-34567-8, 977-6789-01234-5, 5067890123456
+Julia Hoffmann; Frau; Feldstraße 3, 30159 Hannover; JH25Q20008; true; 978-3-463-45678-9, 4006789012345
+David Weber; Herr; Flussweg 19, 40210 Düsseldorf; DW25Q20009; false;
+Laura Richter; Frau; Hügelstraße 5, 69115 Heidelberg; LR25Q20010; true; 978-3-499-67890-1, 977-9012-34567-8, 5090123456789, 4010123456789

@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "xstring": "cpp",
+        "filesystem": "cpp",
+        "format": "cpp",
+        "*.mm": "cpp",
+        "tuple": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp"
+    }
+}
